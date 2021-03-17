@@ -1,0 +1,17 @@
+[
+    {
+    "time_slot_start":"09:45",
+    "time_slot_end":"10:00",
+    "event":"zoom"
+    },
+    {
+        "time_slot_start":"12:45",
+        "time_slot_end":"13:00",
+        "event":"zoom"
+    },
+    {
+        "time_slot_start":"15:00",
+        "time_slot_end":"18:00",
+        "event":"zoom"
+    }
+]
